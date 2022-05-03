@@ -1,6 +1,6 @@
 # Asawi Sandwichs
 
-## Desafio 7°
+## Pre-entrega 3°
 
 ### Utilizacion de nuevos conocimientos de Boostrap
 
